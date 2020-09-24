@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/github.io/react_countries_api/static/css/main.64ce2f62.chunk.css",
-    "main.js": "/github.io/react_countries_api/static/js/main.dc664269.chunk.js",
-    "main.js.map": "/github.io/react_countries_api/static/js/main.dc664269.chunk.js.map",
+    "main.js": "/github.io/react_countries_api/static/js/main.b304199b.chunk.js",
+    "main.js.map": "/github.io/react_countries_api/static/js/main.b304199b.chunk.js.map",
     "runtime-main.js": "/github.io/react_countries_api/static/js/runtime-main.620c915f.js",
     "runtime-main.js.map": "/github.io/react_countries_api/static/js/runtime-main.620c915f.js.map",
     "static/js/2.54986c46.chunk.js": "/github.io/react_countries_api/static/js/2.54986c46.chunk.js",
     "static/js/2.54986c46.chunk.js.map": "/github.io/react_countries_api/static/js/2.54986c46.chunk.js.map",
     "index.html": "/github.io/react_countries_api/index.html",
-    "precache-manifest.4519f25447733080507f8e46cd86a766.js": "/github.io/react_countries_api/precache-manifest.4519f25447733080507f8e46cd86a766.js",
+    "precache-manifest.f70389880fb3e0010b9c312dba3ff47a.js": "/github.io/react_countries_api/precache-manifest.f70389880fb3e0010b9c312dba3ff47a.js",
     "service-worker.js": "/github.io/react_countries_api/service-worker.js",
     "static/css/main.64ce2f62.chunk.css.map": "/github.io/react_countries_api/static/css/main.64ce2f62.chunk.css.map",
     "static/js/2.54986c46.chunk.js.LICENSE.txt": "/github.io/react_countries_api/static/js/2.54986c46.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.620c915f.js",
     "static/js/2.54986c46.chunk.js",
     "static/css/main.64ce2f62.chunk.css",
-    "static/js/main.dc664269.chunk.js"
+    "static/js/main.b304199b.chunk.js"
   ]
 }
