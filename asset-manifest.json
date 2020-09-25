@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github.io/react_countries_api/static/css/main.5ef0d8b8.chunk.css",
-    "main.js": "/github.io/react_countries_api/static/js/main.142bbec2.chunk.js",
-    "main.js.map": "/github.io/react_countries_api/static/js/main.142bbec2.chunk.js.map",
-    "runtime-main.js": "/github.io/react_countries_api/static/js/runtime-main.620c915f.js",
-    "runtime-main.js.map": "/github.io/react_countries_api/static/js/runtime-main.620c915f.js.map",
-    "static/js/2.5c4fa455.chunk.js": "/github.io/react_countries_api/static/js/2.5c4fa455.chunk.js",
-    "static/js/2.5c4fa455.chunk.js.map": "/github.io/react_countries_api/static/js/2.5c4fa455.chunk.js.map",
+    "main.css": "/github.io/react_countries_api/static/css/main.bf4eddb8.chunk.css",
+    "main.js": "/github.io/react_countries_api/static/js/main.7183c960.chunk.js",
+    "main.js.map": "/github.io/react_countries_api/static/js/main.7183c960.chunk.js.map",
+    "runtime-main.js": "/github.io/react_countries_api/static/js/runtime-main.8d6e2a84.js",
+    "runtime-main.js.map": "/github.io/react_countries_api/static/js/runtime-main.8d6e2a84.js.map",
+    "static/js/2.ffc02612.chunk.js": "/github.io/react_countries_api/static/js/2.ffc02612.chunk.js",
+    "static/js/2.ffc02612.chunk.js.map": "/github.io/react_countries_api/static/js/2.ffc02612.chunk.js.map",
     "index.html": "/github.io/react_countries_api/index.html",
-    "precache-manifest.3fe35eba769f66d62aa6646e983d982e.js": "/github.io/react_countries_api/precache-manifest.3fe35eba769f66d62aa6646e983d982e.js",
+    "precache-manifest.665bc3992324f5cc17d74f6e0e9a055e.js": "/github.io/react_countries_api/precache-manifest.665bc3992324f5cc17d74f6e0e9a055e.js",
     "service-worker.js": "/github.io/react_countries_api/service-worker.js",
-    "static/css/main.5ef0d8b8.chunk.css.map": "/github.io/react_countries_api/static/css/main.5ef0d8b8.chunk.css.map",
-    "static/js/2.5c4fa455.chunk.js.LICENSE.txt": "/github.io/react_countries_api/static/js/2.5c4fa455.chunk.js.LICENSE.txt"
+    "static/css/main.bf4eddb8.chunk.css.map": "/github.io/react_countries_api/static/css/main.bf4eddb8.chunk.css.map",
+    "static/js/2.ffc02612.chunk.js.LICENSE.txt": "/github.io/react_countries_api/static/js/2.ffc02612.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.620c915f.js",
-    "static/js/2.5c4fa455.chunk.js",
-    "static/css/main.5ef0d8b8.chunk.css",
-    "static/js/main.142bbec2.chunk.js"
+    "static/js/runtime-main.8d6e2a84.js",
+    "static/js/2.ffc02612.chunk.js",
+    "static/css/main.bf4eddb8.chunk.css",
+    "static/js/main.7183c960.chunk.js"
   ]
 }
