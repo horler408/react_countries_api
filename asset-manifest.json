@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/github.io/react_countries_api/static/css/main.bf4eddb8.chunk.css",
-    "main.js": "/github.io/react_countries_api/static/js/main.7183c960.chunk.js",
-    "main.js.map": "/github.io/react_countries_api/static/js/main.7183c960.chunk.js.map",
+    "main.css": "/github.io/react_countries_api/static/css/main.0c75ca18.chunk.css",
+    "main.js": "/github.io/react_countries_api/static/js/main.8f22213e.chunk.js",
+    "main.js.map": "/github.io/react_countries_api/static/js/main.8f22213e.chunk.js.map",
     "runtime-main.js": "/github.io/react_countries_api/static/js/runtime-main.8d6e2a84.js",
     "runtime-main.js.map": "/github.io/react_countries_api/static/js/runtime-main.8d6e2a84.js.map",
-    "static/js/2.ffc02612.chunk.js": "/github.io/react_countries_api/static/js/2.ffc02612.chunk.js",
-    "static/js/2.ffc02612.chunk.js.map": "/github.io/react_countries_api/static/js/2.ffc02612.chunk.js.map",
+    "static/js/2.a670e87e.chunk.js": "/github.io/react_countries_api/static/js/2.a670e87e.chunk.js",
+    "static/js/2.a670e87e.chunk.js.map": "/github.io/react_countries_api/static/js/2.a670e87e.chunk.js.map",
     "index.html": "/github.io/react_countries_api/index.html",
-    "precache-manifest.665bc3992324f5cc17d74f6e0e9a055e.js": "/github.io/react_countries_api/precache-manifest.665bc3992324f5cc17d74f6e0e9a055e.js",
+    "precache-manifest.0b8d44cb0354a132097a580e8beb3be4.js": "/github.io/react_countries_api/precache-manifest.0b8d44cb0354a132097a580e8beb3be4.js",
     "service-worker.js": "/github.io/react_countries_api/service-worker.js",
-    "static/css/main.bf4eddb8.chunk.css.map": "/github.io/react_countries_api/static/css/main.bf4eddb8.chunk.css.map",
-    "static/js/2.ffc02612.chunk.js.LICENSE.txt": "/github.io/react_countries_api/static/js/2.ffc02612.chunk.js.LICENSE.txt"
+    "static/css/main.0c75ca18.chunk.css.map": "/github.io/react_countries_api/static/css/main.0c75ca18.chunk.css.map",
+    "static/js/2.a670e87e.chunk.js.LICENSE.txt": "/github.io/react_countries_api/static/js/2.a670e87e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.8d6e2a84.js",
-    "static/js/2.ffc02612.chunk.js",
-    "static/css/main.bf4eddb8.chunk.css",
-    "static/js/main.7183c960.chunk.js"
+    "static/js/2.a670e87e.chunk.js",
+    "static/css/main.0c75ca18.chunk.css",
+    "static/js/main.8f22213e.chunk.js"
   ]
 }
